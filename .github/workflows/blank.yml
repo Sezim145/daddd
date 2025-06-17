@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="kk">
+<head>
+  <meta charset="UTF-8">
+  <title>Сәлем, әлем!</title>
+  <style>
+    body { text-align: center; font-family: Arial; padding-top: 50px; }
+    h1 { color: #2980B9; }
+  </style>
+</head>
+<body>
+  <h1>Сәлем, әлем!</h1>
+  <p>Бұл менің Render арқылы жарияланған алғашқы сайтым.</p>
+</body>
+</html>
